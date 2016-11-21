@@ -3,7 +3,8 @@ title:       Undecided
 email:       margot.kriete@gmail.com
 author:      Margot
 description: "who knows"
-baseurl:     ""
+baseurl:     "/polomarge.github.io"
+url:		"http://polomarge.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
